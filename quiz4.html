@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Web Dev | Quiz#4</title>
+  </head>
+
+  <body>
+
+  <h2>Register</h2>
+
+  <form action="quiz4.html" method="post">
+
+  <div>
+    <label for="firstName">First Name:</label>
+    <input type="text" name="firstName" id="firstName" placeholder="John" required>
+    <label for="lastName">Last Name:</label>
+    <input type="text" name="lastName" id="lastName" placeholder="Smith" required>
+  </div>
+
+  <div>
+    <label for="male">Male</label>
+    <input type="radio" name="gender" id="male" value="MALE" required>
+    <label for="female">Female</label>
+    <input type="radio" name="gender" id="female" value="FEMALE" required>
+    <label for="other">Other</label>
+    <input type="radio" name="gender" value="OTHER" required>
+  </div>
+
+  <div>
+    <label for="email">Email:</label>
+    <input type="email" name="EMAIL" id="email" placeholder="your email" required>
+    <label for="password">Password:</label>
+    <input type="password" name="PASSWORD" id="password" placeholder="your passowrd" required>
+  </div>
+
+  <div>
+    <label for="brithday">Birthday</label>
+    <select name="MONTH" required>
+      <option value="01">JAN</option>
+      <option value="02">FEB</option>
+      <option value="03">MARCH</option>
+    </select>
+    <select name="DAY" required>
+      <option>1</option>
+      <option>2</option>
+    </select>
+    <select name="YEAR" required>
+      <option>2000</option>
+      <option>2001</option>
+      <option>2002</option>
+    </select>
+  </div>
+
+  <div>
+    <label for="termsCheck">I agree to the terms & conditions.</label>
+    <input type="checkbox" name="termsCheck" id="termsCheck">
+  </div>
+
+    <button>Submit</button>
+
+
+  </form>
+
+
+
+  </body>
+</html>

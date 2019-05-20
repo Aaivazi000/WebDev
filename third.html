@@ -3,10 +3,16 @@
   <head>
     <meta charset="utf-8">
     <title>MarkGen | Survey</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   </head>
 
 
   <body>
+    <i class="fas fa-chart-line" style="min-height: 200px; min width: 400px; font-size: 70px; color: white; background-color: #152620;" ></i>
+
+
+
+
     <div>
     <h1>Customer Research Survey</h1>
     <p>This survey is for the purpose of Lorem ipsum dolor
@@ -18,22 +24,64 @@
     <div>
       <form action="third.html" method="post">
         <!--This is where the form inputs go</!-->
-        <h4>Full Name</h4>
-        <input name="full name" type="text" placeholder="Full name">
-        <h4>Email</h4>
-        <input name="email" type="email" placeholder="Email">
-        <h4>Current Occupation</h4>
-        <input name="job" type="text" placeholder="Current Occupation">
-        <h4>Do you work in the industry?</h4>
-        Yes
-        <input name="industry"type="radio">
-        No
-        <input name="industry no"type="radio">
-        <h4>Date you began trading</h4>
-        <input name="length of trade" type="date">
+        <label for="name">Full Name:</label>
+        <br>
+        <br>
+        <input id="name" type="text" placeholder="Full name" required>
+
         <br>
         <br>
         <br>
+
+        <label for="Email">Email:</label>
+        <br>
+        <br>
+        <input id="Email" type="email" placeholder="Email" required>
+
+        <br>
+        <br>
+        <br>
+
+        <label for="Current Occupation">Current Occupation:</label>
+        <br>
+        <br>
+        <input id="Current Occupation" type="text" placeholder="Current Occupation" required>
+
+        <br>
+        <br>
+
+        <p>Do you work in Finance?</p>
+        <label for="fiannceYes">Yes</label>
+        <input name="financeRadio" id="financeYes" type="radio" value="YES">
+        <label for="financeNo">No</label>
+        <input name="financeRadio" id="financeNo"type="radio" value="NO">
+
+        <br>
+        <br>
+        <br>
+
+        <label for="industrySelect">What industry do you work in?</label>
+        <br>
+        <br>
+        <select name="industry" id="industrySelect">
+          <option value="fservices">Financial Services</option>
+          <option value="insurance">Insurance</option>
+          <option value="tech">Technology/Software</option>
+        </select>
+
+        <br>
+        <br>
+        <br>
+
+        <label for="how_trading">How did you being trading?</label>
+        <br>
+        <br>
+        <textarea name="historyArea" id="how_trading" rows="8" cols="40"></textarea>
+
+        <br>
+        <br>
+        <br>
+
         <button>Submit</button>
 
 
