@@ -1,0 +1,20 @@
+p {
+  font-family: 'Quicksand';
+  font-size: 23px;
+  text-transform: uppercase;
+  width: 30%;
+  margin-left: 1.66%;
+  border-bottom: 2px solid lightgrey;
+  padding-bottom: 20px;
+}
+
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+#licenseText {
+  text-align: right;
+  font-family: 'Quicksand';
+}
