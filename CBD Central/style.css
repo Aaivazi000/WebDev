@@ -27,9 +27,26 @@
   text-align: left;
   padding-top: 10;
   padding-bottom: 10;
+  margin-left: 5%;
 }
 
 .pageTitleSubText {
   font-weight: 400;
   text-align: left;
+  margin-left: 5%;
+}
+
+/* HOME PAGE */
+.homeWWD {
+  text-align: center;
+  font-weight: 700;
+}
+
+.homeWWDIcon {
+  margin-top: 10%;
+  color: white;
+}
+
+.makepink {
+  background-color: pink;
 }
