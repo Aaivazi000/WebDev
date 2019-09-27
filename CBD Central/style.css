@@ -1,11 +1,7 @@
-/* Style Sheet for www.ilnaessihomes.com */
+/* Style Sheet for www.cbdcentral.com */
 
-h1 {
-  font-family: 'Cinzel';
-  font-weight: 400;
-  text-align: center;
-}
 
+/* NAV BAR*/
 .navbar-brand {
   font-family: 'Cinzel';
   font-weight: 700;
@@ -16,6 +12,24 @@ h1 {
   font-weight: 400;
 }
 
+/* CBD CENTRAL THEME */
 .CBDCentralFont {
   font-family: 'Cinzel';
+}
+
+.CBDMainTheme {
+  background-color: #bfdfd7;
+}
+
+/* PAGE JUMBOTRON ITEMS*/
+.pageTitleText {
+  font-weight: 700;
+  text-align: left;
+  padding-top: 10;
+  padding-bottom: 10;
+}
+
+.pageTitleSubText {
+  font-weight: 400;
+  text-align: left;
 }
