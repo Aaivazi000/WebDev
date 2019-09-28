@@ -28,7 +28,7 @@ This repository holds all of the quizzes, assignments, and practice work I have 
 
 **Project Prompt**: Create an image gallery site that showcases a photographer's hi-resolution photos to users. Project must utilize key components in Bootstrap 3 such as NavBar, Jumbotron, Grid System, and image classes.
 
-
+---
 ### CSS Blog
 **Tech Stack**: HTML, CSS
 
