@@ -7,16 +7,16 @@ This repository holds all of the quizzes, assignments, and practice work I have 
 
 #### The work in this repository is completely my own and was completed as I progressed throughout the course.
 
-##Personal Projects (ordered from most difficult to least)
+## Personal Projects (ordered from most difficult to least)
 ### CBD Central (updated 09/2019)
 **Tech Stack**: HTML, CSS, Bootstrap, Javascript
 **Summary**: CBD Central is a online e-commerce store selling CBD products from distributors based in New York State.
 **Project Goal**: Create a fully functioning e-commerce store selling CBD products from distributors based in New York State. Users will be able to create an account, browse inventory, save items to a wishlist, and learn about the many benefits of using CBD products.
 
-##[Course Projects](https://github.com/Aaivazi000/WebDev/tree/master/Assignments "Course Projects")
+## [Course Projects](https://github.com/Aaivazi000/WebDev/tree/master/Assignments "Course Projects")
 (ordered from most difficult to least)
 
-###Image Gallery
+### Image Gallery
 **Tech Stack**: HTML, CSS, Bootstrap 3
 **Project Prompt**: Create an image gallery site that showcases a photographer's hi-resolution photos to users. Project must utilize
 
