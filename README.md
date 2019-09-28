@@ -7,22 +7,25 @@ This repository holds all of the quizzes, assignments, and practice work I have 
 
 #### The work in this repository is completely my own and was completed as I progressed throughout the course.
 
-## Personal Projects (ordered from most difficult to least)
-### CBD Central (updated 09/2019)
+## Personal Projects
+*(ordered from most difficult to least)*
+### [CBD Central](https://github.com/Aaivazi000/WebDev/tree/master/CBD%20Central "CBD Central")
+*Last Updated 09/2019*
 **Tech Stack**: HTML, CSS, Bootstrap, Javascript
+**Current Status**: Creating first draft of front-end using HTML/CSS & Bootstrap 3.
 
 **Summary**: CBD Central is a online e-commerce store selling CBD products from distributors based in New York State.
 
-**Project Goal**: Create a fully functioning e-commerce store selling CBD products from distributors based in New York State. Users will be able to create an account, browse inventory, save items to a wishlist, and learn about the many benefits of using CBD products.
+**Project Goal**: Full-stack project to create a fully functioning e-commerce store selling CBD products from distributors based in New York State. Users will be able to create an account, browse inventory, save items to a wishlist, and learn about the many benefits of using CBD products. User data and product data loaded to site by queries to a database made by me. Site will feature a modern and easy to use design to facilitate user navigation throughout the site.
 
 
 ## [Course Projects](https://github.com/Aaivazi000/WebDev/tree/master/Assignments "Course Projects")
-(ordered from most difficult to least)
+*(ordered from most difficult to least)*
 
 ### Image Gallery
 **Tech Stack**: HTML, CSS, Bootstrap 3
 
-**Project Prompt**: Create an image gallery site that showcases a photographer's hi-resolution photos to users. Project must utilize
+**Project Prompt**: Create an image gallery site that showcases a photographer's hi-resolution photos to users. Project must utilize key components in Bootstrap 3 such as NavBar, Jumbotron, Grid System, and image classes.
 
 
 ### CSS Blog
