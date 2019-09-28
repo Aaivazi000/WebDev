@@ -10,7 +10,9 @@ This repository holds all of the quizzes, assignments, and practice work I have 
 *(ordered from most difficult to least)*
 ### [CBD Central](https://github.com/Aaivazi000/WebDev/tree/master/CBD%20Central "CBD Central")
 *Last Updated 09/2019*
+
 **Tech Stack**: HTML, CSS, Bootstrap, Javascript
+
 **Current Status**: Creating first draft of front-end using HTML/CSS & Bootstrap 3.
 
 **Summary**: CBD Central is a online e-commerce store selling CBD products from distributors based in New York State.
