@@ -2,6 +2,54 @@ body {
   padding-top: 70px;
 }
 
+.btn-primary {
+  background-color: #0e3154;
+  border-color: #0e3110;
+}
+
+.btn-primary:hover {
+  color: #0e3154;
+  border-color: #0e3110;
+  background-color: white;
+}
+
+.btn-primary:active:focus {
+  background-color: #0e3154;
+  border-color: #0e3110;
+}
+
+.btn-primary:active {
+  background-color: #0e3154;
+  border-color: #0e3110;
+}
+
+.btn-primary:focus {
+  background-color: #0e3154;
+  border-color: #0e3110;
+  color: white;
+}
+
+.col-about {
+  color: #0e3154;
+  text-align: justify;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.col-about-text {
+  line-height: 150%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #c9491a;
+  border-radius: 10px;
+  padding: 30px 30px;
+}
+
+.thumbnail-size{
+  height: 400px;
+  min-width: inherit;
+}
+
 .jumbotron {
   background-color: #ecf0f1;
   color: #c9491a;
