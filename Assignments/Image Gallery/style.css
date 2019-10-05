@@ -2,6 +2,7 @@ body {
   padding-top: 70px;
 }
 
+
 .btn-primary {
   background-color: #0e3154;
   border-color: #0e3110;
@@ -43,11 +44,6 @@ body {
   border-color: #c9491a;
   border-radius: 10px;
   padding: 30px 30px;
-}
-
-.thumbnail-size{
-  height: 400px;
-  min-width: inherit;
 }
 
 .jumbotron {
