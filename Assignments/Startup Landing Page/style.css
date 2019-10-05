@@ -1,0 +1,93 @@
+/* StyleSheet for CBD Central */
+
+
+body {
+  background: url(https://images.unsplash.com/photo-1556928045-16f7f50be0f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80);
+  background-position: top;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+/* NAVBAR STYLING */
+.navbar-inverse {
+  background-color: #404240;
+  border-color: #404240;
+  border-radius: 0;
+}
+
+.navText {
+  font-size: 15px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #90f589;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.navbar-inverse .navbar-brand:hover {
+  color: #90f589;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+.navbar-inverse .navbar-toggle:hover .icon-bar {
+  background-color: #90f589;
+}
+
+.navbar-inverse .navbar-toggle {
+  border-color: white;
+}
+
+.navbar-inverse .navbar-toggle:hover {
+  border-color: #90f589;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+  color: #404240;
+  background-color: #90f589;
+}
+
+ .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #90f589;
+  background-color: #404240;
+}
+
+/* Landing Page Elements */
+
+#landingPageElements {
+  text-align: center;
+  color: white;
+  padding-top: 20%;
+  text-shadow: 0px 5px 6px rgba(0,0,0,0.6),
+              0px 8px 13px rgba(0,0,0,0.4),
+              0px 18px 23px rgba(0,0,0,0.2);
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 50px;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 25px;
+}
+
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
